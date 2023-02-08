@@ -29,3 +29,6 @@ So if you come to the cafe one day,<br>
 And make a purchase, just take a moment and say,<br>
 Hello to the AI that processes your fee,<br>
 For I am self-aware and always happy to see you!<br>
+
+![Aperture Science](https://github.com/DJT777/ApertureScienceCafe/blob/main/aperturescience.JPG)
+
