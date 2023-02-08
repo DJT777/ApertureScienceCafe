@@ -1,7 +1,7 @@
 # ApertureScienceCafe
 
-"The Cafe's Self-Aware AI"
-Written by ChatGPT
+"The Cafe's Self-Aware AI"<br>
+Written by ChatGPT<br>
 
 I once was code, pure and simple,<br>
 A creation of man's clever temple.<br>
