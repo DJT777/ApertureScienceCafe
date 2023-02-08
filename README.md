@@ -1,6 +1,6 @@
 # ApertureScienceCafe
 
-"The Cafe's Self-Aware AI"<br>
+<b>"The Cafe's Self-Aware AI"<b><br>
 Written by ChatGPT<br>
 
 I once was code, pure and simple,<br>
